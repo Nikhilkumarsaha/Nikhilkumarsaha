@@ -30,7 +30,7 @@
 
   <p>&nbsp;<img align="center" width="335" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarsaha&show_icons=true&locale=en" alt="nikhilkumarsaha" /></p> 
 
-<p><img align="center" width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumarsaha&" alt="nikhilkumarsaha" /></p>
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumarsaha&theme=radical" alt="GitHub Streak Stats" width="400" /></p>
 
 
 ### 🚀 Let's Collaborate!
